@@ -4,7 +4,7 @@ By: Hannah Lyhne
 03/31/2014
 -----
 
-This is my solution to assignment 4 in CSCI 340.
+This is my solution for assignment 4 in CSCI 340.
 
 This program shows how to use pthread's synchronization 
 mechanisms to solve a problem of mutual exclusion and a 
